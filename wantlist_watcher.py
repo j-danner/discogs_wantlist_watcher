@@ -1,4 +1,4 @@
-#!/usr/bin/env -S python3 -O
+#!/usr/bin/env python3
 
 #to read out discogs wantlist
 import discogs_client
