@@ -2,3 +2,4 @@ tqdm>=4.66.1
 python3-discogs-client>=2.7
 selenium>=4.16.0
 beautifulsoup4>=4.11.2
+flask>=3.0.0
